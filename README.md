@@ -2,7 +2,7 @@
 
 ## 📌 About the Project
 
-The **Star Rating Widget** is a simple and responsive web application that allows users to rate items using stars. Users can select a rating from 1 to 5 stars, with interactive visual feedback.
+The **Star Rating Widget** is a simple web application that allows users to rate items using stars. Users can select a rating from 1 to 5 stars, with interactive visual feedback.
 
 ## ✨ Features
 
